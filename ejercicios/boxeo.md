@@ -19,3 +19,8 @@ El boxeo es un deporte de alta intensidad que combina fuerza, resistencia y coor
     -Avanzados: Sparring, ejercicios de velocidad y entrenamiento con manoplas.
 3.Enfriamiento:
     -5-10 minutos de estiramientos y respiración controlada.
+
+#Consejos
+-Mantén siempre una buena postura y la guardia alta.
+-Usa vendas y guantes para proteger las manos.
+-No te enfoques solo en golpear, también trabaja la movilidad y defensa.
