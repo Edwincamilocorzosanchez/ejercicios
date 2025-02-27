@@ -30,3 +30,8 @@ El CrossFit es un entrenamiento de alta intensidad que combina ejercicios de fue
         -20 double-unders (saltos de cuerda).
 3.Enfriamiento:
     -Estiramientos estáticos y movilidad durante 5-10 minutos.
+
+#Consejos
+-Prioriza la técnica antes que la velocidad o el peso.
+-Mantén una hidratación adecuada.
+-Ajusta la intensidad según tu nivel de condición física.
