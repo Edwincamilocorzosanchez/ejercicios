@@ -13,3 +13,8 @@ El entrenamiento funcional se enfoca en movimientos que imitan actividades cotid
 2.Realiza ejercicios funcionales como sentadillas, planchas, burpees, peso muerto con kettlebell y saltos al cajón.
 3.Completa de 3 a 4 series de 12-15 repeticiones por ejercicio.
 4.Termina con estiramientos y ejercicios de relajación.
+
+#consejos
+-Mantén una postura correcta durante los movimientos.
+-Usa tu propio peso corporal o implementos como kettlebells, bandas elásticas o balones medicinales.
+-Ajusta la intensidad según tu nivel de condición física.
