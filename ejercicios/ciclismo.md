@@ -16,3 +16,8 @@ El ciclismo es un ejercicio aeróbico que mejora la resistencia cardiovascular, 
     -Intermedios: Alterna 1 minuto de pedaleo rápido con 2 minutos a ritmo moderado por 30-45 minutos.
     -Avanzados: Realiza intervalos de alta intensidad o subidas para mayor resistencia y fuerza.
 3.Enfriamiento: Pedalea suavemente durante 5-10 minutos y finaliza con estiramientos.
+
+#Consejos
+-Mantén una postura correcta para evitar molestias en la espalda o cuello.
+-Hidrátate adecuadamente antes, durante y después del ejercicio.
+-Usa equipo de seguridad si practicas ciclismo al aire libre.
