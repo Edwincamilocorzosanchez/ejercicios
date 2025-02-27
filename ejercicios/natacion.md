@@ -16,3 +16,8 @@ La natacion es un ejercicio completo que trabaja todo el cuerpo, mejora la capac
     -Intermedios: Realiza intervalos de 50-100 metros a mayor intensidad, con descansos cortos.
     -Avanzados: Alterna estilos (crol, pecho, mariposa y espalda) con entrenamientos de velocidad y resistencia.
 3.Enfriamiento: Nada suavemente durante 5-10 minutos y finaliza con estiramientos fuera del agua.
+
+#Consejos
+-Mantén una técnica adecuada para evitar lesiones.
+-Controla la respiración para mejorar el rendimiento.
+-Usa gafas y gorro para mayor comodidad y eficiencia en el agua.
